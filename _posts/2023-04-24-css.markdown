@@ -1,0 +1,11 @@
+---
+layout: post
+title:  CSS
+date:   2023-04-24 10:54:24 +0200
+categories: jekyll update
+egen: variable
+img: css.jpg
+---
+
+
+Css ger webbsidor en visuell stil och layout.CSS består av stilregler med väljare och deklarationer. Väljare riktar in sig på element, medan deklarationer definierar stilarna som ska tillämpas.CSS består av stilregler med väljare och deklarationer. Väljare riktar in sig på element, medan deklarationer definierar stilarna som ska tillämpas.
